@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: wordpress
-          image: wordpress@sha256:022c7d4c14b8af7ddd7c1a7c3b8ea633d2db42219913eb1e79ef89484ae26375
+          image: wordpress@sha256:808d11c13cd0dec746a737e5f717a6b43f470ef197452657df1e71a163e6979e
           ports:
             - containerPort: 80
